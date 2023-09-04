@@ -15,4 +15,4 @@ Cargo.lock
 *.pdb
 
 # package.json
- package.json
+package.json
